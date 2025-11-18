@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//La Jolla Cove Swim Club//Big Chill Double Miles Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Big Chill Double Miles
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:Big Chill Double Miles days for 2025-2026
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Big Chill Opening Weekend
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20251115@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251117
+SUMMARY:Big Chill Opening Weekend
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20251116@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251124
+SUMMARY:Turkey Swim (Club Event)
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+LOCATION:La Jolla Cove
+UID:bigchill-20251123@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:Thanksgiving Day
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20251127@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:Native American Heritage Day
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20251128@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:Thanksgiving Weekend
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20251129@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+SUMMARY:Thanksgiving Weekend
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20251130@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:Anniversary of Lynne Cox's Antarctica Swim
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20251214@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251221
+DTEND;VALUE=DATE:20251222
+SUMMARY:Winter Solstice
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20251221@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:Christmas Day, 1st Day of Hanukkah
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20251225@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:New Year's Day (Club Event)
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+LOCATION:La Jolla Shores
+UID:bigchill-20260101@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:MLK Day
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260119@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Groundhog Day
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260202@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:Super Bowl (Super Bore) Sunday
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260208@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:Valentine's Day
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260214@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:President's Day Weekend (Club Event - Valentine's Day)
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+LOCATION:La Jolla Cove
+UID:bigchill-20260215@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:President's Day
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260216@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Lunar New Year
+DESCRIPTION:Happy Year of the Horse!\n\nMore info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260217@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:International Women's Day
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260308@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:St. Patrick's Day / Katie Ledecky's Birthday (Club Event)
+DESCRIPTION:Katie Ledecky's birthday is March 17. Must swim with a "Spuddo in your Speedo" for double miles.\n\nMore info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+LOCATION:La Jolla Cove
+UID:bigchill-20260315@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:First Day of Spring!
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260320@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:BaseBORE Opening Weekend
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260328@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:BaseBORE Opening Weekend
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260329@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:April Fool's Day
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260401@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Tax Day
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260415@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Last Saturday of Big Chill
+DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+UID:bigchill-20260418@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Last Day of Big Chill (Club Event)
+DESCRIPTION:Must swim with an "Eggo in your Speedo" for double miles.\n\nMore info: https://www.lajollacoveswimclub.com/Double-Mile-Days
+LOCATION:La Jolla Cove
+UID:bigchill-20260419@lajollacoveswimclub.com
+DTSTAMP:20241117T000000Z
+END:VEVENT
+
+END:VCALENDAR
