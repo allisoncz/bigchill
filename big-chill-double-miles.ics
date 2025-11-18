@@ -28,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251123
 DTEND;VALUE=DATE:20251124
-SUMMARY:Turkey Swim (Club Event)
+SUMMARY:Turkey Swim
 DESCRIPTION:More info: https://www.lajollacoveswimclub.com/Double-Mile-Days
 LOCATION:La Jolla Cove
 UID:bigchill-20251123@lajollacoveswimclub.com
